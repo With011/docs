@@ -1,10 +1,10 @@
 ---
-title: Create a repo
+title: ANTI TOKEN
 redirect_from:
-  - /create-a-repo
-  - /articles/create-a-repo
-  - /github/getting-started-with-github/create-a-repo
-  - /github/getting-started-with-github/quickstart/create-a-repo
+  - /README.md
+  - /CONTRACT.TOKEN/
+  - /github/https://www.anti.bet/ANTI.TOKEN{$-00}
+  - /github/www.anti.bet/contract.antibet/contract.token
 intro: 'To put your project up on {% data variables.product.prodname_dotcom %}, you''ll need to create a repository for it to live in.'
 versions:
   fpt: '*'
